@@ -42,10 +42,6 @@ Implementation
 5.3 Creating mainframe class                                
 
 
-Chapter 6
-Snapshots                                                                
-Conclusion
-References
 
 
 
@@ -237,18 +233,7 @@ JMenu Misc = new JMenu("MISC");
 }
 
 
-CHAPTER 6
-SNAPSHOT
-Fig 6.1: Login Operation
-Fig 6.2: Mainframe
-Fig 6.3: Drop-down Menu
-Fig 6.4: Flight Information
-Fig 6.5: Adding Customer
-Fig 6.6: Payment Details
-Fig 6.7: Journey Details
-Fig 6.8: Cancellation
-Fig 6.9: Backend Records
-Fig :6.10 : Back End
+
 
 CONCLUSION 
  
